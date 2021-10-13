@@ -12,7 +12,9 @@ The purpose of this repository is to be a hub of data and knowledge about how so
 
 There is also a detailed document on how these users interact, where they interact, what kind of terms they use, how they group and organize themselves. Any and all information contained herein is in the public domain. However, due credit for any material taken from this repository is required.
 
-Finally, here is the link to the two articles I have published on this topic:
+Finally, here is the link to the two papers I have published on this topic.
+
+# Artigos / Papers
 
 Brasnam 2021 - https://sol.sbc.org.br/index.php/brasnam/article/view/16139
 
